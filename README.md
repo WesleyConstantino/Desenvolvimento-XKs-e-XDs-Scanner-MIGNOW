@@ -1,4 +1,4 @@
-# Desenvolvimento-XKs-e-XKs-Scanner-MIGNOW
+# Desenvolvimento-XKs-e-XDs-Scanner-MIGNOW
 Programa de verificação de XKs e XDs
 
 Especificação: criar um programa que seja capaz de fazer uma varredura no ambiente, 
